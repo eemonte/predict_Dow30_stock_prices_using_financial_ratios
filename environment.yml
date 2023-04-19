@@ -1,0 +1,13 @@
+name: homework1
+dependencies:
+  - python=3.7
+  - matplotlib
+  - nose
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - python-dateutil
+  - pip
+  - pip:
+    - datetime
